@@ -1,11 +1,4 @@
-# -----------------------------------------------------------
-# Graph Structured Network for Image-Text Matching implementation based on
-# "Stacked Cross Attention for Image-Text Matching"
-# Chunxiao Liu, Zhendong Mao, Tianzhu Zhang, Hongtao Xie, Bin Wang, Yongdong Zhang
-# https://arxiv.org/abs/2004.00277.
-#
-# Writen by Chunxiao Liu, 2020
-# ---------------------------------------------------------------
+
 """Vocabulary wrapper"""
 
 import nltk
